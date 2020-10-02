@@ -8,7 +8,7 @@ I'm Elvis,
 ##### My Other Hobbies 
 <hr>
 
-- 🔭 I’m currently working on [Kollab](https://github.com/elvistony/ "A Decentralized Video Chat Platform") 
+- 🔭 I’m currently exploring in Python 
 - 🌱 I’m learning JavaScript and Angular
 - 👯 I’m looking to collaborate on P2P-Meet
 

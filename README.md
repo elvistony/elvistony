@@ -3,14 +3,14 @@
 I'm Elvis,
 
 - 🏠 I'm currently in Kerala, India 🇮🇳
-- 📺 I'm a Huge Fan of Anime <i>Hero Academia|Kuroko No BasketBall</i>
+- 📺 I'm a Huge Fan of Anime <i>Hero Academia | Kuroko No BasketBall | Seven Deadly Sins</i>
 
 ##### My Other Hobbies 
 <hr>
 
-- 🔭 I’m currently exploring in Python 
-- 🌱 I’m learning JavaScript and Angular
-- 👯 I’m looking to collaborate on P2P-Meet
+- 🔭 I’m currently exploring in Data Science 
+- 🌱 I’m learning Flutter (Dart)
+- 👯 I’m looking to collaborate on a huge project!
 
 
 ##### About Meee
@@ -19,4 +19,4 @@ I'm Elvis,
 - 💬 Ask me about Web Dev and lil App Dev
 - 📫 How to reach me: Here on Github
 - 😄 Pronouns: LV | LVZ | El
-- ⚡ Fun fact: I'm a semi-nerd
+- ⚡ Fun fact: I'm human!

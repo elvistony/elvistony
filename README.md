@@ -1,22 +1,43 @@
-### Hi there 👋
+Hello There!
+<h1>I'm <i>Elvis</i></h1>
 
-I'm Elvis,
+### I'm Currently
+- Exploring Data Science
+- Searching the meaning of Life
+- Randomly coding stuff i feel like!
+- Working on a cool Project (Looking for collaborators too!)
 
-- 🏠 I'm currently in Kerala, India 🇮🇳
-- 📺 I'm a Huge Fan of Anime <i>Hero Academia | Kuroko No BasketBall | Seven Deadly Sins</i>
+### About Me
+- I'm an Anime Enthusiast! 
+- I'm from Kerala, India
+- Fan of the MCU 
 
-##### My Other Hobbies 
-<hr>
+![](https://github-readme-stats.vercel.app/api?username=elvistony&show_icons=true&theme=buefy)
 
-- 🔭 I’m currently exploring in Data Science 
-- 🌱 I’m learning Flutter (Dart) and React
-- 👯 I’m looking to collaborate on a huge project!
+### Languages I Use
+
+<table>
+  <tr>
+    <td><img src="https://img.icons8.com/dusk/344/javascript.png" width="65" height="65"/></td>
+    <td><img src="https://img.icons8.com/dusk/344/python.png" width="65" height="65"/></td>
+    <td><img src="https://img.icons8.com/dusk/344/html-5.png" width="65" height="65"/></td>
+    <td><img src="https://img.icons8.com/dusk/344/php.png" width="65" height="65"/></td>
+    <td><img src="https://img.icons8.com/color/344/kotlin.png" width="65" height="65"/></td>
+    <td><img src="https://img.icons8.com/color/344/flutter.png" width="65" height="65"/></td>
+  </tr>
+</table>
 
 
-##### About Meee
-<hr>
+### Contact Me via
 
-- 💬 Ask me about Web Dev and lil App Dev and definitely Python
-- 📫 How to reach me: Here on Github
-- 😄 Pronouns: LV | LVZ | El
-- ⚡ Fun fact: I'm human!
+
+<table>
+  <b><center><td>LinkedIn</td><td>Telegram</td><td>Twitter</td><td>Instagram</td><td>Mail</td></center></b>
+  <tr>
+    <td><a href="https://linkedin.com/in/elvis-tony/"><img src="https://img.icons8.com/nolan/344/linkedin.png" width="65" height="65"/></a></td>
+    <td><a href="https://t.me/lvztony"><img src="https://img.icons8.com/nolan/344/telegram-app.png" width="65" height="65"/></a></td>
+    <td><a href="https://twitter.com/lvz_tony"><img src="https://img.icons8.com/nolan/344/twitter.png" width="65" height="65"/></a></td>
+    <td><a href="https://www.instagram.com/lvz.tony/"><img src="https://img.icons8.com/nolan/344/instagram-new.png" width="65" height="65"/></a></td>
+    <td><a href="mailto:elvistonyrency@gmail.com"><img src="https://img.icons8.com/nolan/344/gmail.png" width="65" height="65"/></a></td>
+  </tr>
+</table>

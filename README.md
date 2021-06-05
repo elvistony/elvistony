@@ -3,8 +3,8 @@ Hello There!
 
 ### I'm Currently
 - Exploring Data Science
-- Searching the meaning of Life
-- Randomly coding stuff i feel like!
+- Searching for the meaning of Life
+- Randomly coding stuff I feel like!
 - Working on a cool Project (Looking for collaborators too!)
 
 ### About Me

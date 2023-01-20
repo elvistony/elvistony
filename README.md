@@ -9,7 +9,7 @@ Hello There!
 
 ### About Me
 - I'm an Anime Enthusiast! 
-- I'm from Kerala, India
+- Earley, London, United Kingdom
 - Fan of the MCU 
 
 ![](https://github-readme-stats.vercel.app/api?username=elvistony&show_icons=true&theme=buefy)
@@ -38,6 +38,6 @@ Hello There!
     <td><a href="https://t.me/lvztony"><img src="https://img.icons8.com/nolan/344/telegram-app.png" width="65" height="65"/></a></td>
     <td><a href="https://twitter.com/lvz_tony"><img src="https://img.icons8.com/nolan/344/twitter.png" width="65" height="65"/></a></td>
     <td><a href="https://www.instagram.com/lvz.tony/"><img src="https://img.icons8.com/nolan/344/instagram-new.png" width="65" height="65"/></a></td>
-    <td><a href="mailto:elvistonyrency@gmail.com"><img src="https://img.icons8.com/nolan/344/gmail.png" width="65" height="65"/></a></td>
+    <td><a href="mailto:elvistonyrency+github@gmail.com"><img src="https://img.icons8.com/nolan/344/gmail.png" width="65" height="65"/></a></td>
   </tr>
 </table>

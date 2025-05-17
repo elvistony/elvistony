@@ -8,8 +8,9 @@ Hello There!
 - Working on a cool Project (Looking for collaborators too!)
 
 ### About Me
+- Manchester, United Kingdom
+- Robotic Process Automation Developer @ NHS
 - I'm an Anime Enthusiast! 
-- Earley, London, United Kingdom
 - Fan of the MCU 
 
 ![](https://github-readme-stats.vercel.app/api?username=elvistony&show_icons=true&theme=buefy)
